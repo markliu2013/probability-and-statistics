@@ -10,3 +10,4 @@
 * [柏松分布](http://www.ruanyifeng.com/blog/2013/01/poisson_distribution.html)
 
 ## 数理统计
+* [协方差](https://www.matongxue.com/madocs/568.html)
