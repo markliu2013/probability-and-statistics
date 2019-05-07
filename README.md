@@ -8,6 +8,7 @@
 * [哈希碰撞与生日攻击](http://www.ruanyifeng.com/blog/2018/09/hash-collision-and-birthday-attack.html)
 * [从酒鬼失足到赌徒破产，悲剧收场为何注定](https://www.guokr.com/article/59575/)
 * [柏松分布](http://www.ruanyifeng.com/blog/2013/01/poisson_distribution.html)
+* [最大似然估计法](https://www.matongxue.com/madocs/447.html)
 
 ## 数理统计
 * [协方差](https://www.matongxue.com/madocs/568.html)
