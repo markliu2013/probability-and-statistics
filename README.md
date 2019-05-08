@@ -12,4 +12,4 @@
 
 ## 数理统计
 * [协方差](https://www.matongxue.com/madocs/568.html)
-* [中心极限定理](https://zhuanlan.zhihu.com/p/25241653)
+* [中心极限定理通俗介绍](https://zhuanlan.zhihu.com/p/25241653)
