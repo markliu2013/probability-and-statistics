@@ -10,6 +10,7 @@
 * [柏松分布](http://www.ruanyifeng.com/blog/2013/01/poisson_distribution.html)
 * [如何通俗地理解“最大似然估计法”?](https://www.matongxue.com/madocs/447.html)
 * [极大似然估计（MLE）、贝叶斯估计、最大后验概率估计（MAP）区别](https://www.cnblogs.com/eilearn/p/9433911.html)
+* [最大似然估计 （MLE） 最大后验概率（MAP）](https://www.cnblogs.com/sylvanas2012/p/5058065.html)
 
 ## 数理统计
 * [协方差](https://www.matongxue.com/madocs/568.html)
