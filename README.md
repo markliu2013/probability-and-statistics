@@ -18,4 +18,4 @@
 * [极大似然估计（MLE）、贝叶斯估计、最大后验概率估计（MAP）区别](https://www.cnblogs.com/eilearn/p/9433911.html)
 * [最大似然估计 （MLE） 最大后验概率（MAP）](https://www.cnblogs.com/sylvanas2012/p/5058065.html)
 * [深入浅出正态分布，大数定律，中心极限定理](https://zhuanlan.zhihu.com/p/40813565)
-
+* [如何通俗易懂地解释「协方差」与「相关系数」的概念？](https://www.zhihu.com/question/20852004)
